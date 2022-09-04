@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419.909" height="368.125" viewBox="0 0 419.909 368.125">
+  <defs>
+    <filter id="Path_26" x="0" y="0" width="419.909" height="368.125" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.564" result="blur"/>
+      <feFlood flood-color="#7c7c7c" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.115" x2="0.5" y2="0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3575ff"/>
+      <stop offset="1" stop-color="#21bdff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_52" data-name="Group 52" transform="translate(-1411.399 -2399.395)">
+    <g transform="matrix(1, 0, 0, 1, 1411.4, 2399.4)" filter="url(#Path_26)">
+      <path id="Path_26-2" data-name="Path 26" d="M1717.984,2416.087H1524.722l-96.631,167.37,96.631,167.37h193.262l96.631-167.37Z" transform="translate(-1411.4 -2399.4)" fill="#fff"/>
+    </g>
+    <path id="Path_27" data-name="Path 27" d="M1706.323,2463.547H1536.382l-84.971,119.91,84.971,119.91h169.941l84.971-119.91Z" fill="url(#linear-gradient)"/>
+    <path id="Path_28" data-name="Path 28" d="M1698.319,2450.148H1544.387l-76.966,133.309,76.966,133.309h153.932l76.966-133.309Z" fill="#fff"/>
+    <text id="_4" data-name="4" transform="translate(1619.245 2533.741)" fill="#0091fe" font-size="46.813" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-15.472" y="0">4</tspan></text>
+    <text id="Create_account" data-name="Create account" transform="translate(1621.353 2562.922)" fill="#163049" font-size="21.151" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-83.969" y="0">Create account</tspan></text>
+    <g id="Group">
+      <text id="Start_sending_and_receiving_" data-name="Start sending and receiving " transform="translate(1521.98 2590.621)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Start sending and receiving </tspan></text>
+      <text id="Bitcoins_and_other_" data-name="Bitcoins and other " transform="translate(1556.115 2625.119)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Bitcoins and other </tspan></text>
+      <text id="cryptocurrencies_through_" data-name="cryptocurrencies through " transform="translate(1529.634 2659.616)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">cryptocurrencies through </tspan></text>
+      <text id="your_wallet." data-name="your wallet." transform="translate(1580.535 2694.114)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">your wallet.</tspan></text>
+    </g>
+  </g>
+</svg>

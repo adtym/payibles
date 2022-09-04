@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419.909" height="368.125" viewBox="0 0 419.909 368.125">
+  <defs>
+    <filter id="Path_23" x="0" y="0" width="419.909" height="368.125" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.564" result="blur"/>
+      <feFlood flood-color="#7c7c7c" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.115" x2="0.5" y2="0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3575ff"/>
+      <stop offset="1" stop-color="#21bdff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_51" data-name="Group 51" transform="translate(-970.497 -2399.395)">
+    <g transform="matrix(1, 0, 0, 1, 970.5, 2399.4)" filter="url(#Path_23)">
+      <path id="Path_23-2" data-name="Path 23" d="M1277.082,2416.087H1083.82l-96.631,167.37,96.631,167.37h193.262l96.631-167.37Z" transform="translate(-970.5 -2399.4)" fill="#fff"/>
+    </g>
+    <path id="Path_24" data-name="Path 24" d="M1265.422,2463.547H1095.48l-84.971,119.91,84.971,119.91h169.941l84.971-119.91Z" fill="url(#linear-gradient)"/>
+    <path id="Path_25" data-name="Path 25" d="M1257.417,2450.148H1103.485l-76.966,133.309,76.966,133.309h153.932l76.966-133.309Z" fill="#fff"/>
+    <text id="_3" data-name="3" transform="translate(1178.343 2533.741)" fill="#0091fe" font-size="46.813" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-14.02" y="0">3</tspan></text>
+    <text id="Create_account" data-name="Create account" transform="translate(1180.451 2562.922)" fill="#163049" font-size="21.151" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-83.969" y="0">Create account</tspan></text>
+    <g id="Group">
+      <text id="Create_new_accounts_to_get_" data-name="Create new accounts to get " transform="translate(1079.864 2590.621)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Create new accounts to get </tspan></text>
+      <text id="your_new_BTC_ETH_and_TRX_" data-name="your new BTC, ETH, and TRX " transform="translate(1083.299 2625.119)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">your new BTC, ETH, and TRX </tspan></text>
+      <text id="addresses." transform="translate(1141.391 2659.616)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">addresses.</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419.909" height="368.125" viewBox="0 0 419.909 368.125">
+  <defs>
+    <filter id="Path_17" x="0" y="0" width="419.909" height="368.125" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.564" result="blur"/>
+      <feFlood flood-color="#7c7c7c" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.115" x2="0.5" y2="0.001" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3575ff"/>
+      <stop offset="1" stop-color="#21bdff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_50" data-name="Group 50" transform="translate(-88.693 -2399.395)">
+    <g transform="matrix(1, 0, 0, 1, 88.69, 2399.4)" filter="url(#Path_17)">
+      <path id="Path_17-2" data-name="Path 17" d="M395.278,2416.087H202.016l-96.631,167.37,96.631,167.37H395.278l96.631-167.37Z" transform="translate(-88.69 -2399.4)" fill="#fff"/>
+    </g>
+    <path id="Path_18" data-name="Path 18" d="M383.618,2463.547H213.676l-84.971,119.91,84.971,119.91H383.618l84.971-119.91Z" fill="url(#linear-gradient)"/>
+    <path id="Path_19" data-name="Path 19" d="M375.613,2450.148H221.681l-76.966,133.309,76.966,133.309H375.613l76.966-133.309Z" fill="#fff"/>
+    <g id="Group_49" data-name="Group 49">
+      <text id="_1" data-name="1" transform="translate(296.539 2533.741)" fill="#0091fe" font-size="46.813" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-8.473" y="0">1</tspan></text>
+      <text id="Create_Profile" data-name="Create Profile" transform="translate(298.647 2562.922)" fill="#163049" font-size="21.151" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-72.737" y="0">Create Profile</tspan></text>
+      <g id="Group">
+        <text id="Create_your_wallet_profile_with_" data-name="Create your wallet profile with " transform="translate(191.239 2590.621)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Create your wallet profile with </tspan></text>
+        <text id="just_your_email_address_and_" data-name="just your email address and " transform="translate(198.091 2625.119)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">just your email address and </tspan></text>
+        <text id="name" transform="translate(277.278 2659.616)" fill="#666" font-size="14.467" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">name</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

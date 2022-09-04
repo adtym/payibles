@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398.1" height="442.856" viewBox="0 0 398.1 442.856">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3575ff"/>
+      <stop offset="1" stop-color="#21bdff"/>
+    </linearGradient>
+    <filter id="Path_167" x="30.946" y="0" width="367.154" height="411.91" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#031549" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_75" x="0" y="30.946" width="367.154" height="411.91" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#031549" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_273" data-name="Group 273" transform="translate(-773.409 -3627.784)">
+    <g transform="matrix(1, 0, 0, 1, 773.41, 3627.78)" filter="url(#Path_167)">
+      <path id="Path_167-2" data-name="Path 167" d="M1035.368,4041.46H809.355V3770.692A111.142,111.142,0,0,1,920.5,3659.55h226.013v270.768A111.141,111.141,0,0,1,1035.368,4041.46Z" transform="translate(-773.41 -3654.55)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 773.41, 3627.78)" filter="url(#Rectangle_75)">
+      <path id="Rectangle_75-2" data-name="Rectangle 75" d="M35.5,0H337.154a0,0,0,0,1,0,0V346.414a35.5,35.5,0,0,1-35.5,35.5H0a0,0,0,0,1,0,0V35.5A35.5,35.5,0,0,1,35.5,0Z" transform="translate(5 35.95)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
